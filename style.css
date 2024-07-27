@@ -1,0 +1,17 @@
+* {
+    flex-direction: column;;
+    align-self: center;
+}
+
+body 
+{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5%;
+    flex-direction: row;
+}
+
+main{
+    display: flex;
+    margin: auto;
+}
